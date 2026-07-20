@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.vscode/
+output/*.png
+output/*.csv
+.DS_Store
